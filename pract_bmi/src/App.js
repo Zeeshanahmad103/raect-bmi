@@ -12,7 +12,7 @@ function App() {
         </div>
 
         <div className="forMan2">
-          <lable>Height in KG </lable>
+          <lable>Height in Meter </lable>
           <input type="text" placeholder="Enter your height" />
         </div>
       </form>
