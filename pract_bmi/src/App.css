@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+}
+
+.forMan1 {
+margin-bottom: 20px;
+}
+
+.forMan2 {
+  margin-bottom: 20px;
+}
+
+.button1 {
+  margin-bottom: 10px;
+}
+
+.button2 {
+  margin-bottom: 10px;
+}
+
+.btn {
+  font-size: 20px;
+  background-color: rgb(3, 3, 72);
+  color: rgb(235, 241, 241);
+}
+
+.container{
+  background-color: #3e6c10;
+  margin-bottom: 20px;
+}
